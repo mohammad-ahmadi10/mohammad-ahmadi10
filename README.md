@@ -15,7 +15,8 @@
 > <code><img height="20" src="https://sdtimes.com/wp-content/uploads/2018/03/jW4dnFtA_400x400.jpg"></code>
 > <code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/2000px-Python-logo-notext.svg.png"></code> 
 <br />    
-> ![Metrics](https://metrics.lecoq.io/mohammad-ahmadi10?template=terminal&introduction=1&stars=1&lines=1&projects=1&introduction.title=true&stars.limit=4&projects.limit=4&projects.descriptions=false&config.timezone=Europe%2FBerlin)
+
+>>>>>>>> ![Metrics](https://metrics.lecoq.io/mohammad-ahmadi10?template=terminal&introduction=1&stars=1&lines=1&projects=1&introduction.title=true&stars.limit=4&projects.limit=4&projects.descriptions=false&config.timezone=Europe%2FBerlin)
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" height="180" src="https://github-readme-stats.vercel.app/api?username=mohammad-ahmadi10&&show_icons=true&theme=vision-friendly-dark&hide_border=true&langs_count=5"/>
