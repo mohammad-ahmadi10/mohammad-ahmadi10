@@ -33,7 +33,7 @@
 
 
 
-![ding](https://github.com/mohammad-ahmadi10/mohammad-ahmadi10/blob/master/dino.gif)
+> ![ding](https://github.com/mohammad-ahmadi10/mohammad-ahmadi10/blob/master/dino.gif)
 
 
 
