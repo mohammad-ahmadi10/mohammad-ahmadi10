@@ -5,12 +5,9 @@
 - 🎤 Ask me about Java or any web development stuff!
 - 📫 How to reach me on: Twitter - [@Mohammad](https://twitter.com/muhamma94767994)
 
-
-<br />
 <br />
 
 >   **Languages and Tools:**  
-
 
 > <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 > <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
@@ -28,15 +25,17 @@
 </a>
   
     
-    
+<br />
+<br />
+ 
 <br />
  
 ![Metrics](https://metrics.lecoq.io/mohammad-ahmadi10?template=terminal&introduction=1&stars=1&lines=1&projects=1&introduction.title=true&stars.limit=4&projects.limit=4&projects.descriptions=false&config.timezone=Europe%2FBerlin)
 
-<br />
-
   
 > ###### _[github-readme-stats](https://github.com/anuraghazra/github-readme-stats.git)_
+<br />
+<br />
 
 
 
