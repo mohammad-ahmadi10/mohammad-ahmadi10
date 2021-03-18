@@ -17,11 +17,13 @@ jobs:
 
           # Options
           user: mohammad-ahmadi10
-          template: classic
+          template: terminal
           base: header, activity, community, repositories, metadata
           config_timezone: Europe/Berlin
           plugin_introduction: yes
           plugin_introduction_title: yes
           plugin_lines: yes
+          plugin_projects: yes
+          plugin_projects_limit: 4
           plugin_stars: yes
           plugin_stars_limit: 4
