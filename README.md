@@ -1,4 +1,4 @@
-### Hi there, I'm Mohammad👋
+### Hi there, I'm Mohammad👋 , a self-taught full-stack web developer from Afghanistan.
 
 - 🔭 I’m currently working on speech-to-text
 - 🌱 I’m currently learning react and Typescript
@@ -30,7 +30,6 @@
   
 > ###### [github-readme-stats](https://github.com/anuraghazra/github-readme-stats.git)
 
-💖 Support Me!
 
-Thanks! ❤️
+> Thanks! ❤️
 
