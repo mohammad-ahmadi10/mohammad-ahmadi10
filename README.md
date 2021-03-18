@@ -1,4 +1,5 @@
 ### Hi there, I'm Mohammad👋
+
 - 🔭 I’m currently working on speech-to-text
 - 🌱 I’m currently learning react and Typescript
 - 🎤 Ask me about Java or any web development stuff!
@@ -8,7 +9,7 @@
 
 
 
-> [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mohammad-ahmadi10&langs_count=8&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+> [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mohammad-ahmadi10&langs_count=8&layout=compact)]
 ###### createed by [github-readme-stats](https://github.com/anuraghazra/github-readme-stats.git)
 
 
