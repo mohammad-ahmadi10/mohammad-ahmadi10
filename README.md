@@ -5,14 +5,9 @@
 - 🎤 Ask me about Java or any web development stuff!
 - 📫 How to reach me on: Twitter - [@Mohammad](https://twitter.com/muhamma94767994)
 
-<br />
-
-![Metrics](https://metrics.lecoq.io/mohammad-ahmadi10?template=terminal&introduction=1&stars=1&lines=1&projects=1&introduction.title=true&stars.limit=4&projects.limit=4&projects.descriptions=false&config.timezone=Europe%2FBerlin)
 
 <br />
 <br />
-
-
 
 >   **Languages and Tools:**  
 
@@ -24,13 +19,6 @@
 > <code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/2000px-Python-logo-notext.svg.png"></code>    
 
 
-
-
-
-
-
-
-
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" height="180" src="https://github-readme-stats.vercel.app/api?username=mohammad-ahmadi10&&show_icons=true&theme=vision-friendly-dark&hide_border=true&langs_count=5"/>
 </a>
@@ -38,6 +26,12 @@
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img  align="center" height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammad-ahmadi10&show_icons=true&theme=vision-friendly-dark&hide_border=true&langs_count=5&layout=compact"
 </a>
+  
+    
+![Metrics](https://metrics.lecoq.io/mohammad-ahmadi10?template=terminal&introduction=1&stars=1&lines=1&projects=1&introduction.title=true&stars.limit=4&projects.limit=4&projects.descriptions=false&config.timezone=Europe%2FBerlin)
+
+<br />
+
   
 > ###### _[github-readme-stats](https://github.com/anuraghazra/github-readme-stats.git)_
 
