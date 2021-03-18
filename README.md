@@ -28,7 +28,7 @@
   <img  align="center" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammad-ahmadi10&show_icons=true&theme=vision-friendly-dark&hide_border=true&langs_count=5&layout=compact"
 </a>
   
-> ###### [github-readme-stats](https://github.com/anuraghazra/github-readme-stats.git)
+> ###### _[github-readme-stats](https://github.com/anuraghazra/github-readme-stats.git)_
 
 
 > Thanks! ❤️
