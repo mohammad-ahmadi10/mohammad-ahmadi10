@@ -14,6 +14,19 @@
 > <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 > <code><img height="20" src="https://sdtimes.com/wp-content/uploads/2018/03/jW4dnFtA_400x400.jpg"></code>
 > <code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/2000px-Python-logo-notext.svg.png"></code>    
+ 
+    
+<br />
+<br />
+<br />
+
+ 
+![Metrics](https://metrics.lecoq.io/mohammad-ahmadi10?template=terminal&introduction=1&stars=1&lines=1&projects=1&introduction.title=true&stars.limit=4&projects.limit=4&projects.descriptions=false&config.timezone=Europe%2FBerlin)
+ 
+
+
+<br />
+<br />
 
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
@@ -25,17 +38,6 @@
 </a>
   
 > ###### _[github-readme-stats](https://github.com/anuraghazra/github-readme-stats.git)_
-
-  
-    
-<br />
-<br />
-<br />
-
- 
-![Metrics](https://metrics.lecoq.io/mohammad-ahmadi10?template=terminal&introduction=1&stars=1&lines=1&projects=1&introduction.title=true&stars.limit=4&projects.limit=4&projects.descriptions=false&config.timezone=Europe%2FBerlin)
- 
-
 
 <br />
 <br />
