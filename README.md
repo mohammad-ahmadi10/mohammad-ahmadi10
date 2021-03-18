@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on speech-to-text
 - 🌱 I’m currently learning react and Typescript
 - 🎤 Ask me about Java or any web development stuff!
-- 📫 How to reach me on Twitter [@Mohammad](@muhamma94767994)
+- 📫 How to reach me on Twitter @muhamma94767994
 
 <br />
 
