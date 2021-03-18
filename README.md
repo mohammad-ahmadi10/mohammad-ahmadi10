@@ -1,4 +1,4 @@
-### Hi there👋, I'm **Mohammad Ahmadi**, a _self-taught full-stack web developer_ from Afghanistan.
+## Hi there👋, I'm **Mohammad Ahmadi**, a _self-taught full-stack web developer_ from Afghanistan.
 
 - 🔭 I’m currently working on speech-to-text
 - 🌱 I’m currently learning react and Typescript
