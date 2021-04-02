@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="716" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="720" class="">
   
 
   <defs><style>@font-face {
@@ -28,8 +28,6 @@
 
 /* Title bar */
   .header {
-    position: absolute;
-    top: 0;
     display: flex;
     justify-content: space-between;
     width: 100%;
@@ -77,9 +75,10 @@
   }
   pre {
     background: #42092B;
-    margin-top: 16px;
     padding: 12px;
     border-radius: 5px;
+    border-top-left-radius: 0px;
+    border-top-right-radius: 0px;
   }
   .banner, footer {
     color: #AE9DA7;
@@ -274,11 +273,11 @@
         </div>
       </div>
 
-<pre><div class="banner">Metrics generator 3.5.0
+<pre><div class="banner">Metrics generator 3.6.0
 These generated metrics comes with ABSOLUTELY NO
 WARRANTY, to the extent permitted by applicable law.
 
-Last generated: Fri, 02 Apr 2021 16:16:11 GMT
+Last generated: Fri, 02 Apr 2021 17:40:55 GMT
 </div>
 <div class="stdin"><span class="ps1-path">mohammad-ahmadi10@metrics</span>:<span class="ps1-location">~</span># whoami</div><div class="stdout"><b>mohammad_ahmadi</b> registered=8m, uid=6417, gid=1
   contributed to 1 repository <b><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span></b>
@@ -307,7 +306,7 @@ dr-x         LICENSE
 
 <span class="diff">@@ -739 +6.84k @@</span>
 </div>
-<footer>Connection reset by 140.99.52.215</footer></pre>
+<footer>Connection reset by 201.253.166.33</footer></pre>
 
       <div id="metrics-end"></div>
     </div>
