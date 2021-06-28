@@ -16,7 +16,7 @@
 > <code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/2000px-Python-logo-notext.svg.png"></code> 
 <br />    
 
-> ![Metrics](https://metrics.lecoq.io/mohammad-ahmadi10?template=terminal&introduction=1&stars=1&lines=1&projects=1&introduction.title=true&stars.limit=4&projects.limit=4&projects.descriptions=false&config.timezone=Europe%2FBerlin)
+> ![Metrics](https://metrics.lecoq.io/mohammad-ahmadi10?template=terminal&languages=1&introduction=1&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.recent.load=300&languages.recent.days=14&introduction.title=true&config.timezone=Europe%2FBerlin)
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" height="180" src="https://github-readme-stats.vercel.app/api?username=mohammad-ahmadi10&&show_icons=true&theme=vision-friendly-dark&hide_border=true&langs_count=5"/>
