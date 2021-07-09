@@ -15,4 +15,8 @@ jobs:
           # Your GitHub token
           token: ${{ secrets.METRICS_TOKEN }}
 
-
+          # Options
+          user: mohammad-ahmadi10
+          template: classic
+          base: header, activity, community, repositories, metadata
+          config_timezone: Europe/Berlin
