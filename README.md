@@ -1,6 +1,6 @@
 ## Hi there👋, I'm **Mohammad Ahmadi**, a _self-taught full-stack web developer_ from Afghanistan.
 
-- 🔭 I’m currently working on [watchit video plattform](https://watchi.world)
+- 🔭 I’m currently working on [watchit video plattform](https://watchit.world)
 - 🌱 I’m currently learning react and Typescript
 - 🎤 Ask me about Java or any web development stuff!
 - 📫 How to reach me on: Twitter - [@Mohammad](https://twitter.com/muhamma94767994)
