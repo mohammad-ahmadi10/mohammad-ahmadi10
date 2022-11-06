@@ -1,6 +1,6 @@
 ## Hi there👋, I'm **Mohammad Ahmadi**, a _self-taught full-stack web developer_ from Afghanistan.
 
-- 🔭 I’m currently working on [watchit video plattform](https://watchit.world)
+- 🔭 I’m currently working on [Sanskytech](https://sansky.theone-web.com)
 - 🌱 I’m currently learning react and Typescript
 - 🎤 Ask me about Java or any web development stuff!
 - 📫 How to reach me on: Twitter - [@Mohammad](https://twitter.com/muhamma94767994)
@@ -14,6 +14,7 @@
 > <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 > <code><img height="20" src="https://sdtimes.com/wp-content/uploads/2018/03/jW4dnFtA_400x400.jpg"></code>
 > <code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/2000px-Python-logo-notext.svg.png"></code> 
+> <code><img height="20" src="https://user-images.githubusercontent.com/3423282/123477765-e4013700-d5d4-11eb-876c-de9aab52153b.png"></code> 
 <br />    
 
 > ![Metrics](https://metrics.lecoq.io/mohammad-ahmadi10?template=classic&config.timezone=Europe%2FBerlin)
