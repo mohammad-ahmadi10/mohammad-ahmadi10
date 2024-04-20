@@ -1,7 +1,7 @@
 ## Hi there👋, I'm **Mohammad Ahmadi**, a _self-taught full-stack web developer_ from Afghanistan.
  ![](https://komarev.com/ghpvc/?username=mohammad-ahmadi10)
 
-- 🔭 I’m currently working on [Sanskytech](https://sanskytech.net)
+- 🔭 I’m currently working on [Sanskytech](https://sanskytech.com)
 - 🌱 I’m currently learning react and Typescript
 - 🎤 Ask me about Java or any web development stuff!
 - 📫 How to reach me on: Twitter - [@Mohammad](https://twitter.com/muhamma94767994)
